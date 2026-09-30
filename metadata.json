@@ -1,0 +1,6 @@
+{
+  "name": "Sri Vishnu Heat Treaters - Secure File Storage Management System",
+  "description": "Secure file storage, AES-256-GCM encryption, SHA-256 integrity verification, RBAC, approval workflow, and security audit system for Sri Vishnu Heat Treaters metallurgical records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
